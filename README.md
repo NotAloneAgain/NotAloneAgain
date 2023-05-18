@@ -1,4 +1,4 @@
-# .grey (NotAloneAgain)
+# .grey
 ## Skills
 ### Languages
 <p align="justify">
