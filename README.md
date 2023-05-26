@@ -25,6 +25,8 @@
 - **Favourite Musicians**: YUNGWAY, Astrophysics, Scarlxrd.
 - **Favourite Writers**: Sergei Yesenin, Alexander Blok, Howard Lovecraft, Erich Remarque.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1099800802559787060)](https://discord.com/users/1099800802559787060?hideDiscrim=true)
+
 ## Statistics
 
 ### Profile
