@@ -22,7 +22,7 @@
 - **Location**: Russia.
 - **Languages**: Russian, English.
 - **Favourite Games**: Hearts of Iron 4, SCP: Secret Laboratory.
-- **Favourite Musicians**: YUNGWAY, Astrophysics, Scarlxrd.
+- **Favourite Musicians**: YUNGWAY, Astrophysics, Scarlxrd, Шайни.
 - **Favourite Writers**: Sergei Yesenin, Alexander Blok, Howard Lovecraft, Erich Remarque.
 
 ## Statistics
