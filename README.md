@@ -21,9 +21,8 @@
 
 - **Location**: Russia.
 - **Languages**: Russian, English.
-- **Favourite Games**: SCP: Secret Laboratory, Dota 2.
-- **Favourite Musicians**: Шайни, NEWLIGHTCHILD, Платина.
-- **Favourite Writers**: Sergei Yesenin, Alexander Blok, Howard Lovecraft, Erich Remarque.
+- **Favourite Games**: SCP: Secret Laboratory, Dead By Daylight.
+- **Favourite Musicians**: Платина, нэнси холод, Kai Angel, 9mice, morphy.
 
 ## Statistics
 
