@@ -21,7 +21,7 @@
 
 - **Location**: Russia.
 - **Languages**: Russian, English.
-- **Favourite Games**: SCP: Secret Laboratory, Dead By Daylight.
+- **Favourite Games**: Dota 2, SCP: Secret Laboratory.
 - **Favourite Musicians**: Платина, нэнси холод, Kai Angel, 9mice, morphy.
 
 ## Statistics
